@@ -3,7 +3,7 @@ INFO
 
 This is a project wich test https://github.com/sabbelasichon/typo3-rector
 
-Checkout 
+Checkout
 ```
 git clone https://github.com/hdietrich-timespin/typo3-rector-testrepo.git /path_to_typo3-rector-testrepo
 ```
