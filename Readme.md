@@ -1,7 +1,7 @@
 INFO
 ====
 
-This is a project wich test https://github.com/sabbelasichon/typo3-rector
+This is a project wich test code with https://github.com/sabbelasichon/typo3-rector
 
 Checkout
 ```
