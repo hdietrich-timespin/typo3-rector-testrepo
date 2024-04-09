@@ -23,9 +23,11 @@ use TYPO3\CMS\Extbase\Persistence\Repository;
  *
  * Test with:
  *
- * cd /path_to/hdietrich-timespin/typo3-rector-testrepo2/Projects/Typo3_12
- * php ../../vendor/bin/rector  process typo3conf/ext/t3tstest/Classes/Domain/Repository --dry-run -vvv --debug
- */
+    cd /path_to/hdietrich-timespin/typo3-rector-testrepo2
+    composer install
+    cd Projects/Typo3_12
+    php ../../vendor/bin/rector  process typo3conf/ext/t3tstest/Classes/Domain/Repository --dry-run -vvv --debug
+  */
 class Typo3RectorIssue4196Repository extends Repository
 {
 
