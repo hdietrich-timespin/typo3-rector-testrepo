@@ -1,0 +1,14 @@
+# Ignore all hidden files exept these.
+.*
+/var
+!.dockerignore
+!.github
+!/.gitignore
+!/.gitattributes
+!/.editorconfig
+!.gitkeep
+!.phpstorm.meta.php
+composer.lock
+composer.phar
+# Other ignored paths and files.
+/vendor

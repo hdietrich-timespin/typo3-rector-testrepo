@@ -1,0 +1,16 @@
+{
+    "name": "hdietrich-timespin/typo3-rector-testrepo2",
+    "description": "testrepo",
+    "license": "",
+    "authors": [
+        {
+            "name": "Heiko Dietrich"
+        }
+    ],
+    "require": {
+        "ssch/typo3-rector": "^v2.3"
+    },
+    "require-dev": {
+        "ssch/typo3-rector": "^v2.3"
+    }
+}
